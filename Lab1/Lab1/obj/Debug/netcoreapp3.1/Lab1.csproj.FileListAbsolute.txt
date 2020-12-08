@@ -1,0 +1,15 @@
+C:\Users\7101040\Documents\labs\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Users\7101040\Documents\labs\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Users\7101040\Documents\labs\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Users\7101040\Documents\labs\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Users\7101040\Documents\labs\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\7101040\Documents\labs\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\7101040\Documents\labs\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+C:\Users\7101040\Documents\labs\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.Form1.resources
+C:\Users\7101040\Documents\labs\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.GenerateResource.cache
+C:\Users\7101040\Documents\labs\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\7101040\Documents\labs\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Users\7101040\Documents\labs\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\7101040\Documents\labs\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\7101040\Documents\labs\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\7101040\Documents\labs\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
